@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+#btn{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    border: none;
+}
